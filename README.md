@@ -2,9 +2,9 @@
   <img src="https://github.com/CB-Info/CB-Info/blob/main/me.gif"/>
 </p>
 
-<p align="center">
-  <img width="250px" style="margin-top: 250px;" src="https://github.com/CB-Info/CB-Info/blob/main/github.gif"/>
-  <img width="250px" style="margin-top: 250px;" src="https://github.com/CB-Info/CB-Info/blob/main/vscode.gif"/>
+<p align="center" style="margin-top: 5em;">
+  <img width="250px" src="https://github.com/CB-Info/CB-Info/blob/main/github.gif"/>
+  <img width="250px" src="https://github.com/CB-Info/CB-Info/blob/main/vscode.gif"/>
 </p>
 
 
