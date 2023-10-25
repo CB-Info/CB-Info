@@ -1,6 +1,4 @@
-<img align="center">
 ![](https://github.com/CB-Info/CB-Info/blob/main/me.gif)
-</img>
 
 <!--
 **CB-Info/CB-Info** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
