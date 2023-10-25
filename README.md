@@ -1,9 +1,8 @@
 <p align="center">
   <img src="https://github.com/CB-Info/CB-Info/blob/main/me.gif" alt="Votre GIF" />
 </p>
-![](https://img.shields.io/badge/YOLO-YOUR_TEXT-ff69b4)
 
-
+![](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
 <!--
 
 **CB-Info/CB-Info** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
