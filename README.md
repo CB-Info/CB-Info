@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <img width="250px" style="margin-top: 5em;" src="https://github.com/CB-Info/CB-Info/blob/main/github.gif"/>
-  <img width="250px" style="margin-top: 5em;" src="https://github.com/CB-Info/CB-Info/blob/main/vscode.gif"/>
+  <img width="250px" style="margin-top: 50em;" src="https://github.com/CB-Info/CB-Info/blob/main/github.gif"/>
+  <img width="250px" style="margin-top: 50em;" src="https://github.com/CB-Info/CB-Info/blob/main/vscode.gif"/>
 </p>
 
 
