@@ -4,14 +4,10 @@
 
 
 <span>
-<p align="center" margin-top="250px">
+<p align="center" margin-top="5em">
   <img width="250px" src="https://github.com/CB-Info/CB-Info/blob/main/github.gif"/>
   <img width="250px" src="https://github.com/CB-Info/CB-Info/blob/main/vscode.gif"/>
 </p>
-<p align="center">
-  
-</p>
-
 
 
 
