@@ -4,7 +4,7 @@
 
 
 <span>
-<p align="center" margin-top="5em">
+<p align="center" margin-top="50em">
   <img width="250px" src="https://github.com/CB-Info/CB-Info/blob/main/github.gif"/>
   <img width="250px" src="https://github.com/CB-Info/CB-Info/blob/main/vscode.gif"/>
 </p>
