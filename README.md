@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/CB-Info/CB-Info/blob/main/me.gif" alt="Votre GIF" />
 </p>
-![YOLO](https://img.shields.io/badge/YOLO-YOUR_TEXT-ff69b4)
+![](https://img.shields.io/badge/YOLO-YOUR_TEXT-ff69b4)
 ![Public Sponsors](https://img.shields.io/github/sponsors/CB-Info?label=Public%20Sponsors)
 
 
