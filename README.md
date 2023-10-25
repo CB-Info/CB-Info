@@ -2,6 +2,9 @@
   <img src="https://github.com/CB-Info/CB-Info/blob/main/me.gif" alt="Votre GIF" />
 </p>
 <!--
+
+![Public Sponsors](https://img.shields.io/github/sponsors/CB-Info?label=Public%20Sponsors)
+
 **CB-Info/CB-Info** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
