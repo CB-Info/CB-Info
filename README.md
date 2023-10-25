@@ -6,11 +6,11 @@
 <span>
 <p align="center" margin-top="250px">
   <img width="250px" src="https://github.com/CB-Info/CB-Info/blob/main/github.gif"/>
-</p>
-<p align="center">
   <img width="250px" src="https://github.com/CB-Info/CB-Info/blob/main/vscode.gif"/>
 </p>
-</span>
+<p align="center">
+  
+</p>
 
 
 
