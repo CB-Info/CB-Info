@@ -5,8 +5,8 @@
 
 
 <p align="center" margin-top="5rem">
-  <img width="10rem" src="https://github.com/CB-Info/CB-Info/blob/main/github.gif"/>
-  <img src="https://github.com/CB-Info/CB-Info/blob/main/vscode.gif"/>
+  <img width="100rem" src="https://github.com/CB-Info/CB-Info/blob/main/github.gif"/>
+  <img width="100em" src="https://github.com/CB-Info/CB-Info/blob/main/vscode.gif"/>
 </p>
 
 
